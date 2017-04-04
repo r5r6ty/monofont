@@ -1,7 +1,7 @@
 # monofont
-#####a small pixel font lib depend on freetype lib
+##### a small pixel font lib depend on freetype lib
 
-##Usage:
+## Usage:
 
 _Init:_
 
